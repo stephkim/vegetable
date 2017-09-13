@@ -2,3 +2,4 @@ celery
 carrots
 spinach
 kale
+eggplant
